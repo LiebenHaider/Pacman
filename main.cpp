@@ -8,3 +8,7 @@ void main(void){
 void FirstFunction(void){
     std::cout<<"This is the first function!";
 }
+
+void MoveEnemy(void){
+    std::cout<<"This function moves the enemies!";
+}
