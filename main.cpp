@@ -6,7 +6,7 @@ void main(void){
 }
 
 void FirstFunction(void){
-    std::cout<<"This is the first function!";
+    std::cout<<"This Function counts the collected points!";
 }
 
 void MoveEnemy(void){
