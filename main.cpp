@@ -12,3 +12,6 @@ void FirstFunction(void){
 void MoveEnemy(void){
     std::cout<<"This function moves the enemies!";
 }
+void MovePlayer(void){
+    std::cout<<"This function moves the Player!";
+}
