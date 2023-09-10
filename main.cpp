@@ -6,7 +6,7 @@ void main(void){
 }
 
 void FirstFunction(void){
-    std::cout<<"This Function counts the collected points!";
+    std::cout<<"This function creates the gamefield!";
 }
 
 void MoveEnemy(void){
