@@ -13,5 +13,5 @@ void MoveEnemy(void){
     std::cout<<"This function moves the enemies!";
 }
 void MovePlayer(void){
-    std::cout<<"This function moves the Player!";
+    std::cout<<"This function moves Pacman!";
 }
